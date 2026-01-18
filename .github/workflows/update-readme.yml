@@ -1,6 +1,7 @@
 name: Update README Table
 
 on:
+    workflow_dispatch:
     push:
         branches:
             - main
