@@ -4,7 +4,7 @@ on:
     push:
         branches:
             - main
-        path:
+        paths:
             - '[0-1]*/**'
             - 'scripts/update_readme.py'
 
