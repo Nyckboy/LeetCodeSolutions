@@ -9,7 +9,7 @@ if [ -z "$1" ] || [ -z "$2" ]; then
 fi
 
 # 2. Variables Setup
-ID=$(printf "%04d" $1) # Pads number with zeros (1 -> 0001)
+ID=$1 # Pads number with zeros (1 -> 0001)
 RAW_NAME="$2"
 # Converts "Two Sum" -> "two-sum" (lowercase + hyphens)
 SLUG_NAME=$(echo "$RAW_NAME" | tr '[:upper:]' '[:lower:]' | tr -s ' ' '-') 
