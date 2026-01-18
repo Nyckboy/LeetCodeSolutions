@@ -17,4 +17,9 @@ This repo uses a custom script to generate boilerplate code.
 
 ## Solutions
 <!-- SOL_TABLE_START -->
+
+| # | Title | Solution | Difficulty |
+|---|---|---|---|
+| 7 | [Reverse Integer](./7-reverse-integer) | [JS](./7-reverse-integer/Solution.js) | Medium |
+
 <!-- SOL_TABLE_END -->
