@@ -1,0 +1,40 @@
+name: Update README Table
+
+on:
+    push:
+        branches:
+            - main
+        path:
+            - '[0-1]*/**'
+            - 'scripts/update_readme.py'
+
+jobs:
+    update-readme:
+        runs-on: ubuntu-lastest
+        permissions: 
+            contents: write
+        
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v4
+
+            - name: Set up Python
+              uses: actions/setup-python@4
+              with: 
+                python-version: '3.x'
+            
+            - name: Run Update Script
+              run: python scripts/update_readme.py
+            
+            - name: Commit and Push changes
+              run: |
+                git config --global user.name "github-actions[bot]"
+                git config --global user.email "github-actions[bot]@users.noreply.github.com"
+                git add README.md
+                # Only commit if there are changes (diff --staged --quiet returns 1 if changes exist)
+                if ! git diff --staged --quiet; then
+                    git commit -m "docs: auto-update solutions table [skip ci]"
+                    git push
+                else
+                    echo "No changes to README."
+                fi
