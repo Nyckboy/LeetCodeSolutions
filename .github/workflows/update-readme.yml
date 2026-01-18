@@ -5,7 +5,7 @@ on:
         branches:
             - main
         paths:
-            - '[0-1]*/**'
+            - '[0-9]*/**'
             - 'scripts/update_readme.py'
 
 jobs:
