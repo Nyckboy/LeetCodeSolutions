@@ -22,5 +22,6 @@ This repo uses a custom script to generate boilerplate code.
 |---|---|---|---|
 | 7 | [Reverse Integer](./7-reverse-integer) | [JS](./7-reverse-integer/Solution.js) | Medium |
 | 8 | [String To Integer (Atoi)](./8-string-to-integer-(atoi)) | [JS](./8-string-to-integer-(atoi)/Solution.js) | Medium |
+| 11 | [Container With Most Water](./11-container-with-most-water) | [JS](./11-container-with-most-water/Solution.js) | Medium |
 
 <!-- SOL_TABLE_END -->
