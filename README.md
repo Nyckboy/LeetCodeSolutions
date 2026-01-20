@@ -14,6 +14,18 @@ Each problem is located in its own directory (e.g., `1-two-sum/`) containing:
 
 ## 🛠️ Usage
 This repo uses a custom script to generate boilerplate code.
+### 1. Create a New Problem
+Generates the folder structure, `README.md`, and solution file for a new LeetCode problem.
+```bash
+# Usage: ./new.sh <Problem ID> "<Problem Title>"
+./new.sh 1 "Two Sum"
+```
+### 2. Sync & Push
+Since the GitHub Action updates the README automatically, the remote repo is often ahead of local. Use this script to safely pull (rebase), stage, commit, and push in one command.
+```bash
+# Usage: ./push.sh "<Commit Message>"
+./push.sh "feat: add solution for 1-two-sum"
+```
 
 ## Solutions
 <!-- SOL_TABLE_START -->
