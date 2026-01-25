@@ -38,6 +38,7 @@ Since the GitHub Action updates the README automatically, the remote repo is oft
 | 7 | [Reverse Integer](./7-reverse-integer) | [JS](./7-reverse-integer/Solution.js) | Medium |
 | 8 | [String To Integer (Atoi)](./8-string-to-integer-(atoi)) | [JS](./8-string-to-integer-(atoi)/Solution.js) | Medium |
 | 11 | [Container With Most Water](./11-container-with-most-water) | [JS](./11-container-with-most-water/Solution.js) | Medium |
+| 14 | [Longest Common Prefix](./14-longest-common-prefix) | [JS](./14-longest-common-prefix/Solution.js) | Easy |
 | 17 | [Letter Combinations Of A Phone Number](./17-letter-combinations-of-a-phone-number) | [JS](./17-letter-combinations-of-a-phone-number/Solution.js) | Medium |
 
 <!-- SOL_TABLE_END -->
