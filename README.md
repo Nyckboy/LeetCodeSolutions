@@ -53,6 +53,6 @@ Since the GitHub Action updates the README automatically, the remote repo is oft
 
 | # | Title | Solution | Difficulty |
 |---|---|---|---|
-| 1 | [Lru Cache](./system-design/Q1-lru-cache) | No Code | Medium |
+| 1 | [Lru Cache](./system-design/Q1-lru-cache) | [JS](./system-design/Q1-lru-cache/Solution.js) | Medium |
 
 <!-- SOL_TABLE_END_SYSDES -->
