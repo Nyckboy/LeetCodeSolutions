@@ -13,7 +13,7 @@ ID=$1 # Pads number with zeros (1 -> 0001)
 RAW_NAME="$2"
 # Converts "Two Sum" -> "two-sum" (lowercase + hyphens)
 SLUG_NAME=$(echo "$RAW_NAME" | tr '[:upper:]' '[:lower:]' | tr -s ' ' '-') 
-FOLDER_NAME="${ID}-${SLUG_NAME}"
+FOLDER_NAME="algorithms/${ID}-${SLUG_NAME}"
 EXT="${3:-js}"
 
 if [ -d "$FOLDER_NAME" ]; then

@@ -6,7 +6,8 @@ on:
         branches:
             - main
         paths:
-            - '[0-9]*/**'
+            - 'algorithms/[0-9]*/**'
+            - 'system-design/**'
             - 'scripts/update_readme.py'
 
 jobs:

@@ -9,7 +9,7 @@
 var minimumAbsDifference = function(arr) {
     arr.sort((a, b) => a - b)
     let result = []
-    let min = 10000000000
+    let min = Infinity
     for (let i = 0; i < arr.length; i++) {
         if (arr[i+1] - arr[i] < min) {
             min = arr[i+1] - arr[i] 

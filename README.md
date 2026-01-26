@@ -28,18 +28,31 @@ Since the GitHub Action updates the README automatically, the remote repo is oft
 ```
 
 ## Solutions
-<!-- SOL_TABLE_START -->
+
+### Algorithms
+
+<!-- SOL_TABLE_START_ALGO -->
 
 | # | Title | Solution | Difficulty |
 |---|---|---|---|
-| 1 | [Two Sum](./1-two-sum) | [JS](./1-two-sum/Solution.js) | Easy |
-| 2 | [Add Two Numbers](./2-add-two-numbers) | [JS](./2-add-two-numbers/Solution.js) | Medium |
-| 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters) | [JS](./3-longest-substring-without-repeating-characters/Solution.js) | Medium |
-| 7 | [Reverse Integer](./7-reverse-integer) | [JS](./7-reverse-integer/Solution.js) | Medium |
-| 8 | [String To Integer (Atoi)](./8-string-to-integer-(atoi)) | [JS](./8-string-to-integer-(atoi)/Solution.js) | Medium |
-| 11 | [Container With Most Water](./11-container-with-most-water) | [JS](./11-container-with-most-water/Solution.js) | Medium |
-| 14 | [Longest Common Prefix](./14-longest-common-prefix) | [JS](./14-longest-common-prefix/Solution.js) | Easy |
-| 17 | [Letter Combinations Of A Phone Number](./17-letter-combinations-of-a-phone-number) | [JS](./17-letter-combinations-of-a-phone-number/Solution.js) | Medium |
-| 1200 | [Minimum Absolute Difference](./1200-minimum-absolute-difference) | [JS](./1200-minimum-absolute-difference/Solution.js) | Easy |
+| 1 | [Two Sum](./algorithms/1-two-sum) | [JS](./algorithms/1-two-sum/Solution.js) | Easy |
+| 2 | [Add Two Numbers](./algorithms/2-add-two-numbers) | [JS](./algorithms/2-add-two-numbers/Solution.js) | Medium |
+| 3 | [Longest Substring Without Repeating Characters](./algorithms/3-longest-substring-without-repeating-characters) | [JS](./algorithms/3-longest-substring-without-repeating-characters/Solution.js) | Medium |
+| 7 | [Reverse Integer](./algorithms/7-reverse-integer) | [JS](./algorithms/7-reverse-integer/Solution.js) | Medium |
+| 8 | [String To Integer (Atoi)](./algorithms/8-string-to-integer-(atoi)) | [JS](./algorithms/8-string-to-integer-(atoi)/Solution.js) | Medium |
+| 11 | [Container With Most Water](./algorithms/11-container-with-most-water) | [JS](./algorithms/11-container-with-most-water/Solution.js) | Medium |
+| 14 | [Longest Common Prefix](./algorithms/14-longest-common-prefix) | [JS](./algorithms/14-longest-common-prefix/Solution.js) | Easy |
+| 17 | [Letter Combinations Of A Phone Number](./algorithms/17-letter-combinations-of-a-phone-number) | [JS](./algorithms/17-letter-combinations-of-a-phone-number/Solution.js) | Medium |
+| 1200 | [Minimum Absolute Difference](./algorithms/1200-minimum-absolute-difference) | [JS](./algorithms/1200-minimum-absolute-difference/Solution.js) | Easy |
 
-<!-- SOL_TABLE_END -->
+<!-- SOL_TABLE_END_ALGO -->
+
+### Sys-design
+
+<!-- SOL_TABLE_START_SYSDES -->
+
+| # | Title | Solution | Difficulty |
+|---|---|---|---|
+| 1 | [Lru Cache](./system-design/Q1-lru-cache) | [JS](./system-design/Q1-lru-cache/Solution.js) | Unknown |
+
+<!-- SOL_TABLE_END_SYSDES -->
