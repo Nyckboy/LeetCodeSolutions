@@ -40,5 +40,6 @@ Since the GitHub Action updates the README automatically, the remote repo is oft
 | 11 | [Container With Most Water](./11-container-with-most-water) | [JS](./11-container-with-most-water/Solution.js) | Medium |
 | 14 | [Longest Common Prefix](./14-longest-common-prefix) | [JS](./14-longest-common-prefix/Solution.js) | Easy |
 | 17 | [Letter Combinations Of A Phone Number](./17-letter-combinations-of-a-phone-number) | [JS](./17-letter-combinations-of-a-phone-number/Solution.js) | Medium |
+| 1200 | [Minimum Absolute Difference](./1200-minimum-absolute-difference) | [JS](./1200-minimum-absolute-difference/Solution.js) | Easy |
 
 <!-- SOL_TABLE_END -->
