@@ -55,5 +55,6 @@ Since the GitHub Action updates the README automatically, the remote repo is oft
 |---|---|---|---|
 | 1 | [Lru Cache](./system-design/Q1-lru-cache) | [JS](./system-design/Q1-lru-cache/Solution.js) | Medium |
 | 2 | [Lfu Cache](./system-design/Q2-lfu-cache) | [JS](./system-design/Q2-lfu-cache/Solution.js) | Hard |
+| 3 | [Kth Largest Element In A Stream](./system-design/Q3-kth-largest-element-in-a-stream) | [JS](./system-design/Q3-kth-largest-element-in-a-stream/Solution.js) | Easy |
 
 <!-- SOL_TABLE_END_SYSDES -->
