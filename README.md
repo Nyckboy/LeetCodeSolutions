@@ -43,6 +43,7 @@ Since the GitHub Action updates the README automatically, the remote repo is oft
 | 11 | [Container With Most Water](./algorithms/11-container-with-most-water) | [JS](./algorithms/11-container-with-most-water/Solution.js) | Medium |
 | 14 | [Longest Common Prefix](./algorithms/14-longest-common-prefix) | [JS](./algorithms/14-longest-common-prefix/Solution.js) | Easy |
 | 17 | [Letter Combinations Of A Phone Number](./algorithms/17-letter-combinations-of-a-phone-number) | [JS](./algorithms/17-letter-combinations-of-a-phone-number/Solution.js) | Medium |
+| 21 | [Merge Two Sorted Lists](./algorithms/21-merge-two-sorted-lists) | [JS](./algorithms/21-merge-two-sorted-lists/Solution.js) | Easy |
 | 1200 | [Minimum Absolute Difference](./algorithms/1200-minimum-absolute-difference) | [JS](./algorithms/1200-minimum-absolute-difference/Solution.js) | Easy |
 
 <!-- SOL_TABLE_END_ALGO -->
