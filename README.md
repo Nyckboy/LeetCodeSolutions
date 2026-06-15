@@ -45,6 +45,7 @@ Since the GitHub Action updates the README automatically, the remote repo is oft
 | 17 | [Letter Combinations Of A Phone Number](./algorithms/17-letter-combinations-of-a-phone-number) | [JS](./algorithms/17-letter-combinations-of-a-phone-number/Solution.js) | Medium |
 | 20 | [Valid Parentheses](./algorithms/20-valid-parentheses) | [JS](./algorithms/20-valid-parentheses/Solution.js) | Easy |
 | 21 | [Merge Two Sorted Lists](./algorithms/21-merge-two-sorted-lists) | [JS](./algorithms/21-merge-two-sorted-lists/Solution.js) | Easy |
+| 26 | [Remove Duplicates From Sorted Array](./algorithms/26-remove-duplicates-from-sorted-array) | [JS](./algorithms/26-remove-duplicates-from-sorted-array/Solution.js) | Easy |
 | 1200 | [Minimum Absolute Difference](./algorithms/1200-minimum-absolute-difference) | [JS](./algorithms/1200-minimum-absolute-difference/Solution.js) | Easy |
 
 <!-- SOL_TABLE_END_ALGO -->
