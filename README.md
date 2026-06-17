@@ -47,6 +47,7 @@ Since the GitHub Action updates the README automatically, the remote repo is oft
 | 21 | [Merge Two Sorted Lists](./algorithms/21-merge-two-sorted-lists) | [JS](./algorithms/21-merge-two-sorted-lists/Solution.js) | Easy |
 | 26 | [Remove Duplicates From Sorted Array](./algorithms/26-remove-duplicates-from-sorted-array) | [JS](./algorithms/26-remove-duplicates-from-sorted-array/Solution.js) | Easy |
 | 27 | [Remove Element](./algorithms/27-remove-element) | [JS](./algorithms/27-remove-element/Solution.js) | Easy |
+| 28 | [Find The Index Of The First Occurrence In A String](./algorithms/28-find-the-index-of-the-first-occurrence-in-a-string) | [JS](./algorithms/28-find-the-index-of-the-first-occurrence-in-a-string/Solution.js) | Easy |
 | 1200 | [Minimum Absolute Difference](./algorithms/1200-minimum-absolute-difference) | [JS](./algorithms/1200-minimum-absolute-difference/Solution.js) | Easy |
 
 <!-- SOL_TABLE_END_ALGO -->
