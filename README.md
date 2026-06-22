@@ -41,6 +41,7 @@ Since the GitHub Action updates the README automatically, the remote repo is oft
 | 7 | [Reverse Integer](./algorithms/7-reverse-integer) | [JS](./algorithms/7-reverse-integer/Solution.js) | Medium |
 | 8 | [String To Integer (Atoi)](./algorithms/8-string-to-integer-(atoi)) | [JS](./algorithms/8-string-to-integer-(atoi)/Solution.js) | Medium |
 | 11 | [Container With Most Water](./algorithms/11-container-with-most-water) | [JS](./algorithms/11-container-with-most-water/Solution.js) | Medium |
+| 12 | [Integer To Roman](./algorithms/12-integer-to-roman) | [JS](./algorithms/12-integer-to-roman/Solution.js) | Medium |
 | 14 | [Longest Common Prefix](./algorithms/14-longest-common-prefix) | [JS](./algorithms/14-longest-common-prefix/Solution.js) | Easy |
 | 17 | [Letter Combinations Of A Phone Number](./algorithms/17-letter-combinations-of-a-phone-number) | [JS](./algorithms/17-letter-combinations-of-a-phone-number/Solution.js) | Medium |
 | 20 | [Valid Parentheses](./algorithms/20-valid-parentheses) | [JS](./algorithms/20-valid-parentheses/Solution.js) | Easy |
