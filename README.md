@@ -51,6 +51,7 @@ Since the GitHub Action updates the README automatically, the remote repo is oft
 | 27 | [Remove Element](./algorithms/27-remove-element) | [JS](./algorithms/27-remove-element/Solution.js) | Easy |
 | 28 | [Find The Index Of The First Occurrence In A String](./algorithms/28-find-the-index-of-the-first-occurrence-in-a-string) | [JS](./algorithms/28-find-the-index-of-the-first-occurrence-in-a-string/Solution.js) | Easy |
 | 35 | [Search Insert Position](./algorithms/35-search-insert-position) | [JS](./algorithms/35-search-insert-position/Solution.js) | Easy |
+| 121 | [Best Time To Buy And Sell Stock](./algorithms/121-best-time-to-buy-and-sell-stock) | [JS](./algorithms/121-best-time-to-buy-and-sell-stock/Solution.js) | Easy |
 | 1200 | [Minimum Absolute Difference](./algorithms/1200-minimum-absolute-difference) | [JS](./algorithms/1200-minimum-absolute-difference/Solution.js) | Easy |
 
 <!-- SOL_TABLE_END_ALGO -->
