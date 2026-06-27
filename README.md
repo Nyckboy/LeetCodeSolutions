@@ -53,6 +53,7 @@ Since the GitHub Action updates the README automatically, the remote repo is oft
 | 35 | [Search Insert Position](./algorithms/35-search-insert-position) | [JS](./algorithms/35-search-insert-position/Solution.js) | Easy |
 | 121 | [Best Time To Buy And Sell Stock](./algorithms/121-best-time-to-buy-and-sell-stock) | [JS](./algorithms/121-best-time-to-buy-and-sell-stock/Solution.js) | Easy |
 | 125 | [Valid Palindrome](./algorithms/125-valid-palindrome) | [JS](./algorithms/125-valid-palindrome/Solution.js) | Easy |
+| 226 | [Invert Binary Tree](./algorithms/226-invert-binary-tree) | [JS](./algorithms/226-invert-binary-tree/Solution.js) | Easy |
 | 1200 | [Minimum Absolute Difference](./algorithms/1200-minimum-absolute-difference) | [JS](./algorithms/1200-minimum-absolute-difference/Solution.js) | Easy |
 
 <!-- SOL_TABLE_END_ALGO -->
