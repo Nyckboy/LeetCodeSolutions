@@ -55,6 +55,7 @@ Since the GitHub Action updates the README automatically, the remote repo is oft
 | 125 | [Valid Palindrome](./algorithms/125-valid-palindrome) | [JS](./algorithms/125-valid-palindrome/Solution.js) | Easy |
 | 226 | [Invert Binary Tree](./algorithms/226-invert-binary-tree) | [JS](./algorithms/226-invert-binary-tree/Solution.js) | Easy |
 | 242 | [Valid Anagram](./algorithms/242-valid-anagram) | [JS](./algorithms/242-valid-anagram/Solution.js) | Easy |
+| 704 | [Binary Search](./algorithms/704-binary-search) | [JS](./algorithms/704-binary-search/Solution.js) | Easy |
 | 1200 | [Minimum Absolute Difference](./algorithms/1200-minimum-absolute-difference) | [JS](./algorithms/1200-minimum-absolute-difference/Solution.js) | Easy |
 
 <!-- SOL_TABLE_END_ALGO -->
