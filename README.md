@@ -54,6 +54,7 @@ Since the GitHub Action updates the README automatically, the remote repo is oft
 | 121 | [Best Time To Buy And Sell Stock](./algorithms/121-best-time-to-buy-and-sell-stock) | [JS](./algorithms/121-best-time-to-buy-and-sell-stock/Solution.js) | Easy |
 | 125 | [Valid Palindrome](./algorithms/125-valid-palindrome) | [JS](./algorithms/125-valid-palindrome/Solution.js) | Easy |
 | 226 | [Invert Binary Tree](./algorithms/226-invert-binary-tree) | [JS](./algorithms/226-invert-binary-tree/Solution.js) | Easy |
+| 235 | [Lowest Common Ancestor Of A Binary Search Tree](./algorithms/235-lowest-common-ancestor-of-a-binary-search-tree) | [JS](./algorithms/235-lowest-common-ancestor-of-a-binary-search-tree/Solution.js) | Medium |
 | 242 | [Valid Anagram](./algorithms/242-valid-anagram) | [JS](./algorithms/242-valid-anagram/Solution.js) | Easy |
 | 704 | [Binary Search](./algorithms/704-binary-search) | [JS](./algorithms/704-binary-search/Solution.js) | Easy |
 | 733 | [Flood Fill](./algorithms/733-flood-fill) | [JS](./algorithms/733-flood-fill/Solution.js) | Easy |
