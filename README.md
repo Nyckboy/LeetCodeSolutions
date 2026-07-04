@@ -58,6 +58,7 @@ Since the GitHub Action updates the README automatically, the remote repo is oft
 | 232 | [Implement Queue Using Stacks](./algorithms/232-implement-queue-using-stacks) | [JS](./algorithms/232-implement-queue-using-stacks/Solution.js) | Easy |
 | 235 | [Lowest Common Ancestor Of A Binary Search Tree](./algorithms/235-lowest-common-ancestor-of-a-binary-search-tree) | [JS](./algorithms/235-lowest-common-ancestor-of-a-binary-search-tree/Solution.js) | Medium |
 | 242 | [Valid Anagram](./algorithms/242-valid-anagram) | [JS](./algorithms/242-valid-anagram/Solution.js) | Easy |
+| 278 | [First Bad Version](./algorithms/278-first-bad-version) | [JS](./algorithms/278-first-bad-version/Solution.js) | Easy |
 | 704 | [Binary Search](./algorithms/704-binary-search) | [JS](./algorithms/704-binary-search/Solution.js) | Easy |
 | 733 | [Flood Fill](./algorithms/733-flood-fill) | [JS](./algorithms/733-flood-fill/Solution.js) | Easy |
 | 1200 | [Minimum Absolute Difference](./algorithms/1200-minimum-absolute-difference) | [JS](./algorithms/1200-minimum-absolute-difference/Solution.js) | Easy |
