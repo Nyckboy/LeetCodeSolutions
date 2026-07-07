@@ -51,6 +51,7 @@ Since the GitHub Action updates the README automatically, the remote repo is oft
 | 27 | [Remove Element](./algorithms/27-remove-element) | [JS](./algorithms/27-remove-element/Solution.js) | Easy |
 | 28 | [Find The Index Of The First Occurrence In A String](./algorithms/28-find-the-index-of-the-first-occurrence-in-a-string) | [JS](./algorithms/28-find-the-index-of-the-first-occurrence-in-a-string/Solution.js) | Easy |
 | 35 | [Search Insert Position](./algorithms/35-search-insert-position) | [JS](./algorithms/35-search-insert-position/Solution.js) | Easy |
+| 70 | [Climbing Stairs](./algorithms/70-climbing-stairs) | [JS](./algorithms/70-climbing-stairs/Solution.js) | Easy |
 | 121 | [Best Time To Buy And Sell Stock](./algorithms/121-best-time-to-buy-and-sell-stock) | [JS](./algorithms/121-best-time-to-buy-and-sell-stock/Solution.js) | Easy |
 | 125 | [Valid Palindrome](./algorithms/125-valid-palindrome) | [JS](./algorithms/125-valid-palindrome/Solution.js) | Easy |
 | 141 | [Linked List Cycle](./algorithms/141-linked-list-cycle) | [JS](./algorithms/141-linked-list-cycle/Solution.js) | Easy |
