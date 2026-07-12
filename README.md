@@ -61,7 +61,7 @@ Since the GitHub Action updates the README automatically, the remote repo is oft
 | 242 | [Valid Anagram](./algorithms/242-valid-anagram) | [JS](./algorithms/242-valid-anagram/Solution.js) | Easy |
 | 278 | [First Bad Version](./algorithms/278-first-bad-version) | [JS](./algorithms/278-first-bad-version/Solution.js) | Easy |
 | 383 | [Ransom Note](./algorithms/383-ransom-note) | [JS](./algorithms/383-ransom-note/Solution.js) | Easy |
-| 409 | [Longest Palindrome](./algorithms/409-longest-palindrome) | No Code | Easy |
+| 409 | [Longest Palindrome](./algorithms/409-longest-palindrome) | [Go](./algorithms/409-longest-palindrome/Solution.go) | Easy |
 | 704 | [Binary Search](./algorithms/704-binary-search) | [JS](./algorithms/704-binary-search/Solution.js) | Easy |
 | 733 | [Flood Fill](./algorithms/733-flood-fill) | [JS](./algorithms/733-flood-fill/Solution.js) | Easy |
 | 1200 | [Minimum Absolute Difference](./algorithms/1200-minimum-absolute-difference) | [JS](./algorithms/1200-minimum-absolute-difference/Solution.js) | Easy |
