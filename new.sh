@@ -39,7 +39,7 @@ fi
 
 SOL_PATH="$FOLDER_NAME/Solution.$EXT"
 if [ ! -f "$SOL_PATH" ]; then
-  if [ "$EXT" == "js" ]; then
+  if [ "$EXT" == "js" -o "$EXT" == "go"  ]; then
 cat <<EOF > "$SOL_PATH"
 
 // Time Complexity: 
