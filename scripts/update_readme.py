@@ -49,6 +49,8 @@ def generate_table(directory, pattern, prefix_path):
                 sol_link = f"[Java]({rel_path}/Solution.java)"
             elif os.path.exists(f"{full_path}/Solution.js"):
                 sol_link = f"[JS]({rel_path}/Solution.js)"
+            elif os.path.exists(f"{full_path}/Solution.go"):
+                sol_link = f"[Go]({rel_path}/Solution.go)"
             
             difficulty = get_difficulty(full_path)
             row = f"| {problem_id_int} | [{title}]({rel_path}) | {sol_link} | {difficulty} |"
