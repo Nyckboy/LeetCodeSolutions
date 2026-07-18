@@ -59,6 +59,7 @@ Since the GitHub Action updates the README automatically, the remote repo is oft
 | 141 | [Linked List Cycle](./algorithms/141-linked-list-cycle) | [JS](./algorithms/141-linked-list-cycle/Solution.js) | Easy |
 | 169 | [Majority Element](./algorithms/169-majority-element) | [Go](./algorithms/169-majority-element/Solution.go) | Easy |
 | 206 | [Reverse Linked List](./algorithms/206-reverse-linked-list) | [Go](./algorithms/206-reverse-linked-list/Solution.go) | Easy |
+| 217 | [Contains Duplicate](./algorithms/217-contains-duplicate) | [Go](./algorithms/217-contains-duplicate/Solution.go) | Easy |
 | 226 | [Invert Binary Tree](./algorithms/226-invert-binary-tree) | [JS](./algorithms/226-invert-binary-tree/Solution.js) | Easy |
 | 232 | [Implement Queue Using Stacks](./algorithms/232-implement-queue-using-stacks) | [JS](./algorithms/232-implement-queue-using-stacks/Solution.js) | Easy |
 | 235 | [Lowest Common Ancestor Of A Binary Search Tree](./algorithms/235-lowest-common-ancestor-of-a-binary-search-tree) | [JS](./algorithms/235-lowest-common-ancestor-of-a-binary-search-tree/Solution.js) | Medium |
