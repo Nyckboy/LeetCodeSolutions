@@ -69,6 +69,7 @@ Since the GitHub Action updates the README automatically, the remote repo is oft
 | 278 | [First Bad Version](./algorithms/278-first-bad-version) | [JS](./algorithms/278-first-bad-version/Solution.js) | Easy |
 | 383 | [Ransom Note](./algorithms/383-ransom-note) | [JS](./algorithms/383-ransom-note/Solution.js) | Easy |
 | 409 | [Longest Palindrome](./algorithms/409-longest-palindrome) | [Go](./algorithms/409-longest-palindrome/Solution.go) | Easy |
+| 542 | [01 Matrix](./algorithms/542-01-matrix) | [Go](./algorithms/542-01-matrix/Solution.go) | Medium |
 | 543 | [Diameter Of Binary Tree](./algorithms/543-diameter-of-binary-tree) | [Go](./algorithms/543-diameter-of-binary-tree/Solution.go) | Easy |
 | 704 | [Binary Search](./algorithms/704-binary-search) | [JS](./algorithms/704-binary-search/Solution.js) | Easy |
 | 733 | [Flood Fill](./algorithms/733-flood-fill) | [JS](./algorithms/733-flood-fill/Solution.js) | Easy |
