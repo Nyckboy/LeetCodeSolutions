@@ -52,6 +52,7 @@ Since the GitHub Action updates the README automatically, the remote repo is oft
 | 28 | [Find The Index Of The First Occurrence In A String](./algorithms/28-find-the-index-of-the-first-occurrence-in-a-string) | [JS](./algorithms/28-find-the-index-of-the-first-occurrence-in-a-string/Solution.js) | Easy |
 | 35 | [Search Insert Position](./algorithms/35-search-insert-position) | [JS](./algorithms/35-search-insert-position/Solution.js) | Easy |
 | 53 | [Maximum Subarray](./algorithms/53-maximum-subarray) | [Go](./algorithms/53-maximum-subarray/Solution.go) | Medium |
+| 57 | [Insert Interval](./algorithms/57-insert-interval) | [Go](./algorithms/57-insert-interval/Solution.go) | Medium |
 | 67 | [Add Binary](./algorithms/67-add-binary) | [Go](./algorithms/67-add-binary/Solution.go) | Easy |
 | 70 | [Climbing Stairs](./algorithms/70-climbing-stairs) | [JS](./algorithms/70-climbing-stairs/Solution.js) | Easy |
 | 104 | [Maximum Depth Of Binary Tree](./algorithms/104-maximum-depth-of-binary-tree) | [Go](./algorithms/104-maximum-depth-of-binary-tree/Solution.go) | Easy |
