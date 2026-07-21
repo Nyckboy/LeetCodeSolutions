@@ -74,6 +74,7 @@ Since the GitHub Action updates the README automatically, the remote repo is oft
 | 704 | [Binary Search](./algorithms/704-binary-search) | [JS](./algorithms/704-binary-search/Solution.js) | Easy |
 | 733 | [Flood Fill](./algorithms/733-flood-fill) | [JS](./algorithms/733-flood-fill/Solution.js) | Easy |
 | 876 | [Middle Of The Linked List](./algorithms/876-middle-of-the-linked-list) | [Go](./algorithms/876-middle-of-the-linked-list/Solution.go) | Easy |
+| 973 | [K Closest Points To Origin](./algorithms/973-k-closest-points-to-origin) | [Go](./algorithms/973-k-closest-points-to-origin/Solution.go) | Medium |
 | 1200 | [Minimum Absolute Difference](./algorithms/1200-minimum-absolute-difference) | [JS](./algorithms/1200-minimum-absolute-difference/Solution.js) | Easy |
 
 <!-- SOL_TABLE_END_ALGO -->
