@@ -61,6 +61,7 @@ Since the GitHub Action updates the README automatically, the remote repo is oft
 | 125 | [Valid Palindrome](./algorithms/125-valid-palindrome) | [JS](./algorithms/125-valid-palindrome/Solution.js) | Easy |
 | 133 | [Clone Graph](./algorithms/133-clone-graph) | [Go](./algorithms/133-clone-graph/Solution.go) | Medium |
 | 141 | [Linked List Cycle](./algorithms/141-linked-list-cycle) | [JS](./algorithms/141-linked-list-cycle/Solution.js) | Easy |
+| 150 | [Evaluate Reverse Polish Notation](./algorithms/150-evaluate-reverse-polish-notation) | [Go](./algorithms/150-evaluate-reverse-polish-notation/Solution.go) | Medium |
 | 169 | [Majority Element](./algorithms/169-majority-element) | [Go](./algorithms/169-majority-element/Solution.go) | Easy |
 | 206 | [Reverse Linked List](./algorithms/206-reverse-linked-list) | [Go](./algorithms/206-reverse-linked-list/Solution.go) | Easy |
 | 217 | [Contains Duplicate](./algorithms/217-contains-duplicate) | [Go](./algorithms/217-contains-duplicate/Solution.go) | Easy |
