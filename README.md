@@ -65,6 +65,7 @@ Since the GitHub Action updates the README automatically, the remote repo is oft
 | 169 | [Majority Element](./algorithms/169-majority-element) | [Go](./algorithms/169-majority-element/Solution.go) | Easy |
 | 206 | [Reverse Linked List](./algorithms/206-reverse-linked-list) | [Go](./algorithms/206-reverse-linked-list/Solution.go) | Easy |
 | 207 | [Course Schedule](./algorithms/207-course-schedule) | [Go](./algorithms/207-course-schedule/Solution.go) | Medium |
+| 208 | [Implement Trie (Prefix Tree)](./algorithms/208-implement-trie-(prefix-tree)) | [Go](./algorithms/208-implement-trie-(prefix-tree)/Solution.go) | Medium |
 | 217 | [Contains Duplicate](./algorithms/217-contains-duplicate) | [Go](./algorithms/217-contains-duplicate/Solution.go) | Easy |
 | 226 | [Invert Binary Tree](./algorithms/226-invert-binary-tree) | [JS](./algorithms/226-invert-binary-tree/Solution.js) | Easy |
 | 232 | [Implement Queue Using Stacks](./algorithms/232-implement-queue-using-stacks) | [JS](./algorithms/232-implement-queue-using-stacks/Solution.js) | Easy |
