@@ -72,6 +72,7 @@ Since the GitHub Action updates the README automatically, the remote repo is oft
 | 235 | [Lowest Common Ancestor Of A Binary Search Tree](./algorithms/235-lowest-common-ancestor-of-a-binary-search-tree) | [JS](./algorithms/235-lowest-common-ancestor-of-a-binary-search-tree/Solution.js) | Medium |
 | 242 | [Valid Anagram](./algorithms/242-valid-anagram) | [JS](./algorithms/242-valid-anagram/Solution.js) | Easy |
 | 278 | [First Bad Version](./algorithms/278-first-bad-version) | [JS](./algorithms/278-first-bad-version/Solution.js) | Easy |
+| 322 | [Coin Change](./algorithms/322-coin-change) | [Go](./algorithms/322-coin-change/Solution.go) | Medium |
 | 383 | [Ransom Note](./algorithms/383-ransom-note) | [JS](./algorithms/383-ransom-note/Solution.js) | Easy |
 | 409 | [Longest Palindrome](./algorithms/409-longest-palindrome) | [Go](./algorithms/409-longest-palindrome/Solution.go) | Easy |
 | 542 | [01 Matrix](./algorithms/542-01-matrix) | [Go](./algorithms/542-01-matrix/Solution.go) | Medium |
