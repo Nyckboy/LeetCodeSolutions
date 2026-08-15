@@ -55,6 +55,7 @@ Since the GitHub Action updates the README automatically, the remote repo is oft
 | 57 | [Insert Interval](./algorithms/57-insert-interval) | [Go](./algorithms/57-insert-interval/Solution.go) | Medium |
 | 67 | [Add Binary](./algorithms/67-add-binary) | [Go](./algorithms/67-add-binary/Solution.go) | Easy |
 | 70 | [Climbing Stairs](./algorithms/70-climbing-stairs) | [JS](./algorithms/70-climbing-stairs/Solution.js) | Easy |
+| 98 | [Validate Binary Search Tree](./algorithms/98-validate-binary-search-tree) | [Go](./algorithms/98-validate-binary-search-tree/Solution.go) | Medium |
 | 102 | [Binary Tree Level Order Traversal](./algorithms/102-binary-tree-level-order-traversal) | [Go](./algorithms/102-binary-tree-level-order-traversal/Solution.go) | Medium |
 | 104 | [Maximum Depth Of Binary Tree](./algorithms/104-maximum-depth-of-binary-tree) | [Go](./algorithms/104-maximum-depth-of-binary-tree/Solution.go) | Easy |
 | 121 | [Best Time To Buy And Sell Stock](./algorithms/121-best-time-to-buy-and-sell-stock) | [JS](./algorithms/121-best-time-to-buy-and-sell-stock/Solution.js) | Easy |
