@@ -65,6 +65,7 @@ Since the GitHub Action updates the README automatically, the remote repo is oft
 | 150 | [Evaluate Reverse Polish Notation](./algorithms/150-evaluate-reverse-polish-notation) | [Go](./algorithms/150-evaluate-reverse-polish-notation/Solution.go) | Medium |
 | 155 | [Min Stack](./algorithms/155-min-stack) | [Go](./algorithms/155-min-stack/Solution.go) | Medium |
 | 169 | [Majority Element](./algorithms/169-majority-element) | [Go](./algorithms/169-majority-element/Solution.go) | Easy |
+| 200 | [Number Of Islands](./algorithms/200-number-of-islands) | [Go](./algorithms/200-number-of-islands/Solution.go) | Medium |
 | 206 | [Reverse Linked List](./algorithms/206-reverse-linked-list) | [Go](./algorithms/206-reverse-linked-list/Solution.go) | Easy |
 | 207 | [Course Schedule](./algorithms/207-course-schedule) | [Go](./algorithms/207-course-schedule/Solution.go) | Medium |
 | 208 | [Implement Trie (Prefix Tree)](./algorithms/208-implement-trie-(prefix-tree)) | [Go](./algorithms/208-implement-trie-(prefix-tree)/Solution.go) | Medium |
